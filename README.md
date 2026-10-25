@@ -66,14 +66,13 @@ flowchart TD
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here: drag images into GitHub's editor -->
-| Home | Live auction | Checkout |
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| Home | Live auction |
+|:---:|:---:|
+| <img src="screenshots/home.png" height="520" alt="Home screen"> | <img src="screenshots/live-auction.png" height="520" alt="Live auction"> |
 
-| Marketplace filters | Sell your antique | Profile |
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| Marketplace | Sell your antique |
+|:---:|:---:|
+| <img src="screenshots/marketplace.png" height="520" alt="Marketplace"> | <img src="screenshots/sell-your-antique.png" height="520" alt="Sell your antique form"> |
 
 ## 🔍 Code sample — the in-tab stack shim
 
